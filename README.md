@@ -74,7 +74,7 @@ Most models achieved near-perfect classification due to dataset characteristics.
 ---
 
 
-## 🌐 Web Application
+## Web Application
 A **Flask** app (`app.py`) was built to demonstrate mushroom classification interactively.  
 Users can input mushroom attributes and get an **"Edible"** or **"Poisonous"** prediction in real-time.
 
@@ -116,7 +116,7 @@ Visit **http://127.0.0.1:5000/** in your browser.
 
 ## Conclusion
 - **Random Forest** and **Gradient Boosting** achieved perfect classification.
-- Dataset is highly separable due to clear feature-target correlations.
+- The dataset is highly separable due to clear feature-target correlations.
 - Flask app provides an easy interface for real-time classification.
 
 ---
