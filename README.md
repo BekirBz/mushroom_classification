@@ -13,7 +13,7 @@ It was developed as part of the *Graduate Machine Learning Assignment 2025* and 
 ## Project Structure
 ```
 mushroom_classification/
-│── Mushroom_BekirBozoklar-Copy1.html   # Jupyter Notebook (HTML) - full code & report
+│── Mushroom_BekirBozoklar-Copy1.ipynb   # Jupyter Notebook (ipynb) - full code & report
 │── app.py                              # Flask app for model demonstration
 │── diagram.png                         # Workflow diagram
 │── app_screenshot.png                  # Web app screenshot
