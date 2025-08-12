@@ -10,7 +10,7 @@ It was developed as part of the *Graduate Machine Learning Assignment 2025* and 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 mushroom_classification/
 │── Mushroom_BekirBozoklar-Copy1.html   # Jupyter Notebook (HTML) - full code & report
@@ -84,7 +84,7 @@ Users can input mushroom attributes and get an **"Edible"** or **"Poisonous"** p
 
 ---
 
-## 📦 Requirements
+## Requirements
 ```txt
 pandas
 numpy
